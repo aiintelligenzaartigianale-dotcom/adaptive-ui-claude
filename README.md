@@ -1,6 +1,6 @@
 # Adaptive UI per Claude — installazione in 2 minuti
 
-Creato da **Intelligenza Artigianale** — seguimi su Instagram: **[@ai_intelligenzartigianale](https://www.instagram.com/ai_intelligenzartigianale/)** per altri strumenti e guide sull'AI in italiano.
+Creato da **Intelligenza Artigianale** — seguimi su Instagram: **[@ai_intelligenzartigianale](https://www.instagram.com/ai_intelligenzaartigianale/)** per altri strumenti e guide sull'AI in italiano.
 
 Ti servono **Claude Desktop** (Mac o Windows) e questi due file.
 
